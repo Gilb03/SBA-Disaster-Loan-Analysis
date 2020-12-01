@@ -2,4 +2,4 @@
 
 
 
-<a href="pdfs/SBA-presi.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="pdfs/SBA.pdf" class="image fit"><img src="images/sba.jpg" alt=""></a>
