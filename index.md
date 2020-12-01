@@ -1,6 +1,8 @@
-# SBA Disaster Loan Analysis 
+# SBA Disaster Visualizations
 
 
-![Presentation](./pdf/sba.pdf)
+
+
+![Presentation](https://gilb03.github.io/SBA-Disaster-Loan-Analysis/sba.pdf)
 
 
