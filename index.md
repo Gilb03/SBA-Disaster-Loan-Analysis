@@ -3,6 +3,6 @@
 
 
 
-![Presentation](https://gilb03.github.io/SBA-Disaster-Loan-Analysis/sba.pdf)
 
+![](https://drive.google.com/drive/folders/1tn_tWa8i6DlDZuXcRvY7oTrEAcej3yEs?export?format=pdf)
 
