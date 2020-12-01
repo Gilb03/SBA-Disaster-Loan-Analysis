@@ -2,4 +2,4 @@
 
 
 
-<a href="pdfs/SBA.pdf" class="image fit"><img src="images/sba.jpg" alt=""></a>
+<a href="pdf/SBA.pdf" class="image fit"><img src="images/sba.jpg" alt=""></a>
